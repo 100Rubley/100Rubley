@@ -1,8 +1,14 @@
-## Hi, I’m Anton 👋👋👋
-- U+1F441 I’m interested in web development
-- 🌱 I’m currently learning React and TypeScript
-- 💞️ I’m looking for a job with an experiensed developer
-- :speech_balloon: You can taxt me https://t.me/I00Rubley
+## Hi, I’m Anton :sassy_man:
+- :eyes: I’m interested in web development
+- :eye: I’m looking for a job with an experiensed developer
+- :speech_balloon: You can text me https://t.me/I00Rubley
+
+## Currently using :computer::
+
+- React
+- Redux
+- TypeScript
+
 
 <!---
 100Rubley/100Rubley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
