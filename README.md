@@ -1,7 +1,7 @@
 ## Hi, I’m Anton :sassy_man:
 - :eyes: I’m interested in web development
 - :eye: I’m looking for a job with an experiensed developer
-- :speech_balloon: You can text me https://t.me/I00Rubley
+- :speech_balloon: You can text me [here](https://t.me/I00Rubley) 
 
 ## Currently using :computer::
 
