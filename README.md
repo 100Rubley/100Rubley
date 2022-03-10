@@ -1,5 +1,5 @@
 ## Hi, I’m Anton 👋👋👋
-- 👀 I’m interested in web development
+- U+1F441 I’m interested in web development
 - 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking for a job with an experiensed developer
 - :speech_balloon: You can taxt me https://t.me/I00Rubley
